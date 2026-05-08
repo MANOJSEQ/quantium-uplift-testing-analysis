@@ -86,3 +86,27 @@ Created visual comparisons for:
 
 
 ---
+
+# Visual Analysis
+
+## Store 77 Sales Comparison
+
+![Store 77](store77_sales_comparison.png)
+
+---
+
+## Store 86 Sales Comparison
+
+![Store 86](store86_sales_comparison.png)
+
+---
+
+## Store 88 Sales Comparison
+
+![Store 88](store88_sales_comparison.png)
+
+---
+
+# Final Recommendations
+
+![Summary](trial_uplift_analysis_summary.png)
